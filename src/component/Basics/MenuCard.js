@@ -12,6 +12,7 @@ const menuCard = ({menudata}) => {
     menudata.map((curElem,index) =>
     {
         const {id,image,name,category,price,description} = curElem;
+        
         return (
             <>
              <div className="card-container"  key={id}>
