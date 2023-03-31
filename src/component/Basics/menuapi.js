@@ -1,6 +1,6 @@
 const product= [{
     id:1,
-    image:"\Project_images\batman-ben-affleck.jpg",
+    image:"\Project_images\toothbrushes\Colgate kids 5+ Minion ToothBrush-Extra Soft with tounge cleaner.png",
     name:"Colgate-ToothBrush-ZigZag",
     category:"ToothBrush",
     price:149.5,
