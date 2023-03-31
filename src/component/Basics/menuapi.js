@@ -1,6 +1,6 @@
 const product= [{
     id:1,
-    image:"\Project_images\toothbrushes\batman-ben-affleck.jpg",
+    image:"\Project_images\batman-ben-affleck.jpg",
     name:"Colgate-ToothBrush-ZigZag",
     category:"ToothBrush",
     price:149.5,
